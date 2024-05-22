@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Love Calculator</title>
+        <link rel="stylesheet" href="love-calculator-style.css">
+    </head>
+    
+    <body>
+        <header>
+            <img id="logo" src="images/love-cal-header.jpg" alt="love calculator logo" >
+            <h1 class="centre">💕Love💕 Calculator</h1>
+        </header>
+        <main>
+            <h3 class="centre">Welcome to love calculator!</h3>
+            <p class="centre">Lets get started by providing two person's names and see how much they love each other 🙂</p>
+            <form class="centre">
+                <label for="p1">Person 1: </label>
+                <br><br>
+                <input type="text" id="p1" name="person1" value="" placeholder="put name here">
+                <br><br>
+                <label for="p2">Person 2: </label>
+                <br><br>
+                <input type="text" id="p2" name="person-2" value="" placeholder="put name here">
+                <br><br>
+                <button type="button" onclick="loveCalculator()">Calculate now</button>
+            </form>
+            <div id="result-container" class="centre">
+                <h4 id="result"></h4>
+            </div>
+        </main>
+        <footer>
+          <p class="centre">
+            GDenven<br>
+            ©<span id="current-year"></span>
+          </p>
+        </footer>
+        
+        <script src="love-calculator.js"></script>
+    </body>
+</html>
