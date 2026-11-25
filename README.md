@@ -3,10 +3,10 @@
 
 💖 Love Calculator
 
-&emsp;A fun, simple web application that calculates the "love compatibility" percentage between two people. 
+&emsp;A fun, simple web application that calculates the "love compatibility" percentage between two people. <br />
 &emsp;Just enter two names and find out how much they love each other!
 
-&emsp;Disclaimer: This app uses JavaScript's Math.random() function, meaning the results are completely 
+&emsp;Disclaimer: This app uses JavaScript's Math.random() function, meaning the results are completely <br />
 &emsp;random and purely for entertainment purposes!
 
 ✨ Features
