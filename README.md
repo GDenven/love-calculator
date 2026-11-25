@@ -41,4 +41,6 @@
 
 &emsp;Open index.html in any web browser.
 
+&emsp;Live website: https://gdenven.github.io/love-calculator/
+
 &emsp;Made for fun! ❤️
