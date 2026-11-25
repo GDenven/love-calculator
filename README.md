@@ -9,6 +9,8 @@
 &emsp;Disclaimer: This app uses JavaScript's Math.random() function, meaning the results are completely <br />
 &emsp;random and purely for entertainment purposes!
 
+<br />
+
 ✨ Features
 
 &emsp;Simple Interface: Just type in two names and click a button.
@@ -16,6 +18,8 @@
 &emsp;Instant Results: Generates a random compatibility percentage immediately.
 
 &emsp;Lightweight: Fast, static website with no backend or database required.
+
+<br />
 
 🛠️ Built With
 
@@ -25,12 +29,13 @@
 
 &emsp;JavaScript – Logic and random percentage generation (Math.random())
 
+<br />
+
 🚀 How to Run Locally
 
 &emsp;Clone this repository:
 
 &emsp;git clone https://github.com/GDenven/love-calculator.git
-
 
 &emsp;Navigate to the project folder.
 
