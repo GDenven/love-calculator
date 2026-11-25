@@ -13,7 +13,7 @@
 
 ✨ Features
 
-&emsp;Simple Interface: Just type in two names and click a button.
+&emsp;Simple Interface: Just type in two names and click a calculate button.
 
 &emsp;Instant Results: Generates a random compatibility percentage immediately.
 
@@ -27,7 +27,7 @@
 
 &emsp;CSS3 – Styling and layout
 
-&emsp;JavaScript – Logic and random percentage generation (Math.random())
+&emsp;JavaScript – Logic 
 
 <br />
 
