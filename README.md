@@ -27,7 +27,7 @@
 
 &emsp;Clone this repository:
 
-&emsp;git clone https://github.com/your-username/your-repo-name.git
+&emsp;git clone https://github.com/GDenven/love-calculator.git
 
 
 &emsp;Navigate to the project folder.
